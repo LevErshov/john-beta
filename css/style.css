@@ -658,7 +658,7 @@ body._lock {
           flex: 0 0 246px;
 }
 @media (min-width: 768px){
-  .item__image{
+  .item__image-work{
       margin-right: 20px;
   }
 }
