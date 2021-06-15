@@ -656,7 +656,11 @@ body._lock {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 246px;
           flex: 0 0 246px;
-  margin-right: 20px;
+}
+@media (min-width: 768px){
+  .item__image{
+      margin-right: 20px;
+  }
 }
 
 .item__title {
