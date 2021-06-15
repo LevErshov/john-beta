@@ -731,7 +731,7 @@ body._lock {
 }
 
 .item__image-work {
-  margin-right: 0;
+  margin-right: 20px;
   -webkit-box-flex: 0;
       -ms-flex: 0 0 180px;
           flex: 0 0 180px;
