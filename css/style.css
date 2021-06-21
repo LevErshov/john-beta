@@ -944,3 +944,6 @@ body._lock {
     margin-bottom: 24px;
   }
 }
+.active-page{
+    color: red;
+}
